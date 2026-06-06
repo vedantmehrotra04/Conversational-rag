@@ -13,6 +13,8 @@ The system supports:
 * FastAPI API endpoint
 * LangSmith observability and tracing
 
+You can access the actual pdf on this link - https://rikalp.in/wp-content/uploads/2024/07/HR-Policy.pdf
+
 ---
 
 # Architecture
